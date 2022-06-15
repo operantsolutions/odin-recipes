@@ -1,0 +1,14 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: #222222;
+    color: white;
+}
+
+img {
+    width: 275px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
